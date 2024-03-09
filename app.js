@@ -1,5 +1,4 @@
-console.log('come on furkan...')
-//this code was written recently.... Can you see this?
+// hello there this is the second commit by Furkan, the developer.
 let inputName = document.getElementById('input-text-name');
 let inputPassword = document.getElementById('input-text-name');
 let inputButton = document.getElementById('sign-in');
